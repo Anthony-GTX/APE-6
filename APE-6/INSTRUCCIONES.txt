@@ -1,0 +1,1 @@
+APE 6 - Anthony Armas\n\nContiene seis archivos .java en src y el README.md. Abre una terminal en src, compila con javac Nombre.java y ejecuta con java NombreDeClase.\n
